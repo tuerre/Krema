@@ -6,4 +6,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Changes]
 
-No changes at this time
+- 2025-11-23: Delete Light and Darker mode(users prefer kremaDark)
