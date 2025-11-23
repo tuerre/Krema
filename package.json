@@ -38,16 +38,6 @@
                 "label": "KremaDark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Krema-color-theme.json"
-            },
-            {
-                "label": "KremaDarker",
-                "uiTheme": "hc-black",
-                "path": "./themes/Krema-color-theme-darker.json"
-            },
-            {
-                "label": "KremaLight",
-                "uiTheme": "hc-light",
-                "path": "./themes/Krema-color-theme-light.json"
             }
         ]
     }
