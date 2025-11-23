@@ -1,0 +1,54 @@
+{
+    "name": "krema-theme",
+    "displayName": "Krema",
+    "description": "A perfect dark theme based on Krema colors",
+    "version": "1.0.0",
+    "publisher": "tuerre",
+    "author": "tuerre",
+    "icon": "logo.png",
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "090b10",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tuerre/Krema"
+    },
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "keywords": [
+        "VSCode",
+        "Themes",
+        "krema",
+        "naruto",
+        "dark",
+        "themes",
+        "theme",
+        "color-theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "KremaDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Krema-color-theme.json"
+            },
+            {
+                "label": "KremaDarker",
+                "uiTheme": "hc-black",
+                "path": "./themes/Krema-color-theme-darker.json"
+            },
+            {
+                "label": "KremaLight",
+                "uiTheme": "hc-light",
+                "path": "./themes/Krema-color-theme-light.json"
+            }
+        ]
+    }
+}
